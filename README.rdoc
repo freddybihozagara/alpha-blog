@@ -1,5 +1,7 @@
 == README
 
+This is the repository for the alpha-blog app from the Complete Ruby on rails developer course 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
