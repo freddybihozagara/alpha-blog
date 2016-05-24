@@ -1,0 +1,5 @@
+#!/bin/sh -e 
+
+rails generate controller welcome index
+
+exit 0

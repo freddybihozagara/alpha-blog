@@ -1,0 +1,5 @@
+#!/bin/sh -e
+
+rails server -p $PORT -b $IP
+
+exit 0
