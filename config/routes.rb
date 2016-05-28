@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :users
   get 'articles/new'
 
   resources :articles
