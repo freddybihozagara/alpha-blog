@@ -22,10 +22,15 @@ $navbar-default-bg: #3a9a92;
     margin-top: 1em;
 }
 
+.nav_{
+    
+    margin-top: 1em;
+}
+
 
 .jumbotron{
     
-    height: 30em;
+    height: 25em;
     
 }
 
@@ -33,9 +38,16 @@ $navbar-default-bg: #3a9a92;
     
     margin-top: 1em;
     margin-bottom: 0.5em;
-    
+    text-align: center;
     
 }
+
+.login-buttons{
+    
+    text-align: center;
+    
+}
+
 
 .footsy{
     
@@ -72,3 +84,4 @@ $navbar-default-bg: #3a9a92;
     margin-bottom: 1em;
     
 }
+
