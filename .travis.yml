@@ -1,11 +1,7 @@
-language: ruby
+language: rails
 
 test:
     rake
 
-rvm:
-  - 2.2.5
-  - 2.3.1
-  - ruby-head
 
 
