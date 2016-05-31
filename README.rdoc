@@ -1,4 +1,4 @@
-== README
+== README https://travis-ci.org/frdb194/alpha-blog.svg?branch=master
 
 
 This README would normally document whatever steps are necessary to get the
