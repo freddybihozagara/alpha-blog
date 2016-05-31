@@ -1,5 +1,4 @@
-.. image:: https://travis-ci.org/frdb194/alpha-blog.svg?branch=master
-    :target: https://travis-ci.org/frdb194/alpha-blog
+{<img src="https://travis-ci.org/frdb194/alpha-blog.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/frdb194/alpha-blog]
 
 == README
 
