@@ -47,6 +47,12 @@ class ArticlesController < ApplicationController
     
   end
   
+  def destroy
+    @article = Article.find(params[:id])
+    flash[:notice] = "Article was successfully destroyed"
+    
+  end
+  
   
   private
   
