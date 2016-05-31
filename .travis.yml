@@ -1,4 +1,4 @@
-language: ruby
+language: rails
 
 rails:
   - "4.2.5"
