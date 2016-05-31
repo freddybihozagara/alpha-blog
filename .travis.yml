@@ -1,5 +1,8 @@
 language: rails
 
+sudo:
+    required
+
 test:
     rake
 
