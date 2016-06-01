@@ -1,16 +1,18 @@
+<div class="col-md-offset-1 left">
 <h1>Home</h1>
-
+</div>
+<div class="col-md-10 right">
 <%= link_to 'Alpha blog', articles_path %> |
 <%= link_to 'About', about_path %>
-
+</div>
 <br>
 
-<div class="jumbotron col-md-12">
+<div class="jumbotron col-md-12 center">
   <h1 id="blogtitle">Alpha Blog</h1>
   
-  <div class="container login-buttons">
-  <%= link_to 'Log in', login_path, class:"btn btn-success btn-lg" %>
-  <%= link_to 'Sign up', new_user_path, class:"btn btn-success btn-lg" %>
+  <div class="container login-buttons center">
+  <%= link_to 'Log in', login_path, class:"btn btn-success btn-md" %>
+  <%= link_to 'Sign up', new_user_path, class:"btn btn-success btn-md" %>
   </div>
   
 </div>

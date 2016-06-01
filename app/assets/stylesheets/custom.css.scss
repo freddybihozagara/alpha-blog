@@ -38,7 +38,7 @@ $navbar-default-bg: #3a9a92;
     
     margin-top: 1em;
     margin-bottom: 0.5em;
-    text-align: left;
+    text-align: center;
     
 }
 
@@ -50,9 +50,27 @@ $navbar-default-bg: #3a9a92;
 }
 
 
+.center{
+    
+    text-align: center;
+}
+
+.right{
+    
+    text-align: right;
+}
+
+.left{
+    
+    text-align:left;
+    
+}
+
+
 .footsy{
     
     margin-top: 1em;
+    text-align: center;
 }
 
 #submit{
